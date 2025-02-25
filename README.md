@@ -29,7 +29,7 @@ The approach used to generate the algorithm.
 
 ## Installation & Running the Code
 ### Prerequisites
-- Python 3.8+
+- Python 3.11
 - Required libraries: pandas, scikit-learn, joblib
 
 ### Setup
@@ -59,6 +59,8 @@ The approach used to generate the algorithm.
 | predict.py | Loads timing_model.pkl and predicts logic depth for a new signal |
 | README.md | Documentation for the project |
 | Circuit,Results.pdf | Displays the circuit taken and shows the outputs|
+| Vivado.XDC | Displays the XDC File|
+| timing_report | Shows the timing report|
 
 ## Future Improvements
 - Automate feature extraction using *Yosys synthesis reports*.
