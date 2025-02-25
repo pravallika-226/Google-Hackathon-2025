@@ -54,7 +54,7 @@ The approach used to generate the algorithm.
 ## Files in the Repository
 | File | Description |
 |------|-------------|
-| data.csv | Sample dataset with logic depth values |
+| mergeddata.csv | Sample dataset with logic depth values |
 | train_model.py | Trains the ML model and saves it as timing_model.pkl |
 | predict.py | Loads timing_model.pkl and predicts logic depth for a new signal |
 | README.md | Documentation for the project |
