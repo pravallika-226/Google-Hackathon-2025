@@ -33,20 +33,15 @@ The approach used to generate the algorithm.
 - Required libraries: pandas, scikit-learn, joblib
 
 ### Setup
-1. Clone the repository:
-   bash
-   git clone <repo-link>
-   cd <repo-folder>
-   
-2. Install dependencies:
+1. Install dependencies:
    bash
    pip install -r requirements.txt
    
-3. Train the model:
+2. Train the model:
    bash
    python train_model.py
    
-4. Predict logic depth for a new signal:
+3. Predict logic depth for a new signal:
    bash
    python predict.py
    
