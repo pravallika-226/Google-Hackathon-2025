@@ -24,7 +24,7 @@ The approach used to generate the algorithm.
    - Evaluated using Mean Absolute Error (MAE).
 
 4. Prediction & Testing
-   - New signals can be tested using the trained ML model (timing_model.pkl).
+   - New signals can be tested using the trained ML model (train_model.py).
    - A separate script (predict.py) loads the model and makes predictions.
 
 ## Installation & Running the Code
